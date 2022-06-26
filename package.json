@@ -1,0 +1,10 @@
+{
+  "name": "included_files",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "netlify-cli": "10.5.1"
+  }
+}
